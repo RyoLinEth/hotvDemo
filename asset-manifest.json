@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23ad5c31.css",
+    "main.js": "/static/js/main.256cc56a.js",
+    "static/media/clouds.png": "/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/login-image.jpg": "/static/media/login-image.21e8ba3f9dca3c346851.jpg",
+    "static/media/joshua-stannard.jpg": "/static/media/joshua-stannard.a16f281cc99a02795dd7.jpg",
+    "static/media/soroush-karimi.jpg": "/static/media/soroush-karimi.620dc9e92af6bac885fe.jpg",
+    "static/media/federico-beccari.jpg": "/static/media/federico-beccari.ab3a31e7758f490adca7.jpg",
+    "static/media/Valcano3.jpg": "/static/media/Valcano3.1fef11e7ba9a2364300f.jpg",
+    "static/media/Valcano.jpg": "/static/media/Valcano.d89d3a6fc00006851db8.jpg",
+    "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.488bc249dffdae3556c6.jpg",
+    "static/media/uriel-soberanes.jpg": "/static/media/uriel-soberanes.b741f54e9ccbd071a751.jpg",
+    "static/media/daniel-olahh.jpg": "/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
+    "static/media/Valcano2.jpg": "/static/media/Valcano2.1b6edd5012ce50c9eb28.jpg",
+    "static/media/profile-page.png": "/static/media/profile-page.3a626caf205d1143f192.png",
+    "static/media/landing-page.png": "/static/media/landing-page.80158096b63fb4a837e1.png",
+    "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
+    "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
+    "static/media/joe-gardner-2.jpg": "/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/static/media/clem-onojeghuo-3.83003f446b7372176b72.jpg",
+    "static/media/kaci-baum-2.jpg": "/static/media/kaci-baum-2.9b929eea6c1ef2b4dbb4.jpg",
+    "static/media/erik-lucatero-2.jpg": "/static/media/erik-lucatero-2.d09715abe0463c58d6be.jpg",
+    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.23ad5c31.css",
+    "static/js/main.256cc56a.js"
+  ]
+}
